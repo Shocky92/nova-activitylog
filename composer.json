@@ -29,10 +29,10 @@
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
-    "repositories": {
+    "repositories": [
         {
             "type": "vcs",
             "url": "https://github.com/laravel-shift/laravel-activitylog.git"
         }
-    }
+    ]
 }
